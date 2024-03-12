@@ -1,0 +1,14 @@
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\bin\Debug\net8.0\TcpClientSide.exe
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\bin\Debug\net8.0\TcpClientSide.deps.json
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\bin\Debug\net8.0\TcpClientSide.runtimeconfig.json
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\bin\Debug\net8.0\TcpClientSide.dll
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\bin\Debug\net8.0\TcpClientSide.pdb
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\TcpClientSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\TcpClientSide.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\TcpClientSide.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\TcpClientSide.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\TcpClientSide.dll
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\refint\TcpClientSide.dll
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\TcpClientSide.pdb
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\TcpClientSide.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpClientSide\obj\Debug\net8.0\ref\TcpClientSide.dll

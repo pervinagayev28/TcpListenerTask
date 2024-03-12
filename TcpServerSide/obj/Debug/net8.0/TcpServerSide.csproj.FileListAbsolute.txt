@@ -1,0 +1,14 @@
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\bin\Debug\net8.0\TcpServerSide.exe
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\bin\Debug\net8.0\TcpServerSide.deps.json
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\bin\Debug\net8.0\TcpServerSide.runtimeconfig.json
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\bin\Debug\net8.0\TcpServerSide.dll
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\bin\Debug\net8.0\TcpServerSide.pdb
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\TcpServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\TcpServerSide.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\TcpServerSide.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\TcpServerSide.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\TcpServerSide.dll
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\refint\TcpServerSide.dll
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\TcpServerSide.pdb
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\TcpServerSide.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\source\repos\Lesson_uc\TcpServerSide\obj\Debug\net8.0\ref\TcpServerSide.dll

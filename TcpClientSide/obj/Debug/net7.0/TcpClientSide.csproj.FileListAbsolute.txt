@@ -1,0 +1,15 @@
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\bin\Debug\net7.0\TcpClientSide.exe
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\bin\Debug\net7.0\TcpClientSide.deps.json
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\bin\Debug\net7.0\TcpClientSide.runtimeconfig.json
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\bin\Debug\net7.0\TcpClientSide.dll
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\bin\Debug\net7.0\TcpClientSide.pdb
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.csproj.AssemblyReference.cache
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.AssemblyInfoInputs.cache
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.AssemblyInfo.cs
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.csproj.CoreCompileInputs.cache
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.dll
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\refint\TcpClientSide.dll
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.pdb
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\TcpClientSide.genruntimeconfig.cache
+C:\Users\Agaye_jz58\Desktop\Foo\TcpClientSide\obj\Debug\net7.0\ref\TcpClientSide.dll
